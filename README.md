@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivampanwar7
-- 👀 I’m interested in discovering new ideas and implementing them for the sake of reducing suffering of the people.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on reducing the effort of the people
 - 📫 How to reach me panwarshivam028@gmail.com
